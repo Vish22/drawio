@@ -108,8 +108,11 @@
         <mxCell id="9vI-2c-PgLwFKMdJhcvR-36" value="&lt;h6&gt;&amp;nbsp;GE1/0/2&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="210" y="340" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="9vI-2c-PgLwFKMdJhcvR-37" target="9vI-2c-PgLwFKMdJhcvR-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9vI-2c-PgLwFKMdJhcvR-37" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;port link-type trunk&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;undo port trunk permit vlan 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;port trunk permit &lt;b&gt;vlan 30 40&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;port trunk pvid vlan 99&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="200" y="370" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="300" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
