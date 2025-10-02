@@ -140,7 +140,7 @@
         <mxCell id="9vI-2c-PgLwFKMdJhcvR-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="9vI-2c-PgLwFKMdJhcvR-49" source="9vI-2c-PgLwFKMdJhcvR-44" target="9vI-2c-PgLwFKMdJhcvR-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9vI-2c-PgLwFKMdJhcvR-44" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;tag vlan30&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;tag vlan40&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="9vI-2c-PgLwFKMdJhcvR-49">
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-44" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;tag &lt;b&gt;vlan30&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;tag &lt;b&gt;vlan40&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="9vI-2c-PgLwFKMdJhcvR-49">
           <mxGeometry x="685" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9vI-2c-PgLwFKMdJhcvR-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.036;exitY=0.592;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.451;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9vI-2c-PgLwFKMdJhcvR-49" source="9vI-2c-PgLwFKMdJhcvR-19" target="ZU7foqUjX7-0-NzKU_KE-13">
