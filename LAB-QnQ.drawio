@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="JqMk4bC6La_m8ltDHWBf">
-    <mxGraphModel dx="899" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="434" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,16 +126,16 @@
         <mxCell id="9vI-2c-PgLwFKMdJhcvR-41" value="MGT&lt;br&gt;VLAN 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="840" y="315" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9vI-2c-PgLwFKMdJhcvR-42" value="&lt;h6&gt;&amp;nbsp;GE1/0/3&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-42" value="&lt;h6&gt;eth 17&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="735" y="345" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9vI-2c-PgLwFKMdJhcvR-43" value="&lt;h6&gt;&amp;nbsp;GE1/0/2&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-43" value="&lt;h6&gt;eth 18&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="850" y="345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9vI-2c-PgLwFKMdJhcvR-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9vI-2c-PgLwFKMdJhcvR-44" target="9vI-2c-PgLwFKMdJhcvR-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9vI-2c-PgLwFKMdJhcvR-44" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;port link-type trunk&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;undo port trunk permit vlan 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;port trunk permit &lt;b&gt;vlan 30 40&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;port trunk pvid vlan 99&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-44" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;tagged vlan30&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;tagged vlan40&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="725" y="305" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
