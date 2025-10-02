@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="Page-1" id="JqMk4bC6La_m8ltDHWBf">
+    <mxGraphModel dx="706" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZU7foqUjX7-0-NzKU_KE-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="10" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU7foqUjX7-0-NzKU_KE-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZU7foqUjX7-0-NzKU_KE-11">
+          <mxGeometry x="120" y="30" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU7foqUjX7-0-NzKU_KE-10" value="&lt;h6&gt;HPE 5710&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; font-weight: normal;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bh6%26gt%3B%26amp%3Bnbsp%3BXGE1%2F0%2F28%26lt%3B%2Fh6%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfillColor%3Ddefault%3BstrokeColor%3Ddefault%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%2255%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="ZU7foqUjX7-0-NzKU_KE-11">
+          <mxGeometry x="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU7foqUjX7-0-NzKU_KE-13" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&amp;nbsp;port link-type trunk&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&amp;nbsp;undo port trunk permit vlan 1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&amp;nbsp;port trunk permit vlan 300&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ZU7foqUjX7-0-NzKU_KE-11">
+          <mxGeometry x="-10" y="75" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU7foqUjX7-0-NzKU_KE-14" value="&lt;h6&gt;&amp;nbsp;XGE1/0/48&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="ZU7foqUjX7-0-NzKU_KE-11">
+          <mxGeometry x="25" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU7foqUjX7-0-NzKU_KE-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="10" width="410" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU7foqUjX7-0-NzKU_KE-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZU7foqUjX7-0-NzKU_KE-12">
+          <mxGeometry y="30" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU7foqUjX7-0-NzKU_KE-4" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&amp;nbsp;port link-type trunk&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&amp;nbsp;undo port trunk permit vlan 1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&amp;nbsp;port trunk permit vlan 300&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ZU7foqUjX7-0-NzKU_KE-12">
+          <mxGeometry x="280" y="75" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU7foqUjX7-0-NzKU_KE-5" value="&lt;h6&gt;&amp;nbsp;XGE1/0/28&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="ZU7foqUjX7-0-NzKU_KE-12">
+          <mxGeometry x="315" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU7foqUjX7-0-NzKU_KE-9" value="&lt;h6&gt;HPE 5130&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; font-weight: normal;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bh6%26gt%3B%26amp%3Bnbsp%3BXGE1%2F0%2F28%26lt%3B%2Fh6%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfillColor%3Ddefault%3BstrokeColor%3Ddefault%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%2255%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="ZU7foqUjX7-0-NzKU_KE-12">
+          <mxGeometry x="110" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
