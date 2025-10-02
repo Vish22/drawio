@@ -54,6 +54,42 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-13" value="&lt;h6&gt;&amp;nbsp;XGE1/0/18&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="9vI-2c-PgLwFKMdJhcvR-16">
+          <mxGeometry x="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-14" value="MGT&lt;br&gt;VLAN 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="9vI-2c-PgLwFKMdJhcvR-16">
+          <mxGeometry y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-18" value="&lt;h6&gt;&amp;nbsp;XGE1/0/17&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="9vI-2c-PgLwFKMdJhcvR-17">
+          <mxGeometry x="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-19" value="MGT&lt;br&gt;VLAN 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="9vI-2c-PgLwFKMdJhcvR-17">
+          <mxGeometry y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="720" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-21" value="&lt;h6&gt;&amp;nbsp;XGE1/0/18&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="9vI-2c-PgLwFKMdJhcvR-20">
+          <mxGeometry x="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-22" value="MGT&lt;br&gt;VLAN 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="9vI-2c-PgLwFKMdJhcvR-20">
+          <mxGeometry y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="840" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-24" value="&lt;h6&gt;&amp;nbsp;XGE1/0/17&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="9vI-2c-PgLwFKMdJhcvR-23">
+          <mxGeometry x="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-25" value="MGT&lt;br&gt;VLAN 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="9vI-2c-PgLwFKMdJhcvR-23">
+          <mxGeometry y="30" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
