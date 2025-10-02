@@ -132,7 +132,7 @@
         <mxCell id="9vI-2c-PgLwFKMdJhcvR-43" value="&lt;h6&gt;eth 18&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="850" y="345" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9vI-2c-PgLwFKMdJhcvR-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9vI-2c-PgLwFKMdJhcvR-44" target="9vI-2c-PgLwFKMdJhcvR-30">
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="9vI-2c-PgLwFKMdJhcvR-44" target="9vI-2c-PgLwFKMdJhcvR-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9vI-2c-PgLwFKMdJhcvR-44" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;tag vlan30&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;tag vlan40&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
