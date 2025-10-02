@@ -105,6 +105,12 @@
         <mxCell id="9vI-2c-PgLwFKMdJhcvR-35" value="&lt;h6&gt;&amp;nbsp;GE1/0/3&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="90" y="340" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-36" value="&lt;h6&gt;&amp;nbsp;GE1/0/2&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9vI-2c-PgLwFKMdJhcvR-37" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;port link-type trunk&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;undo port trunk permit vlan 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;port trunk permit &lt;b&gt;vlan 30 40&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px; line-height: 70%;&quot;&gt;&amp;nbsp;port trunk pvid vlan 99&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
